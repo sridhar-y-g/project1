@@ -124,11 +124,10 @@ body {
     width: 85px;
     padding: 15px;
     position: relative;
-    left: 250px;
+    left: 150px;
     border: 1px solid black;
     font-family: BOLD;
     border-radius: 50%;
-    align-items: center;
   }
   .v{
     position: relative;
